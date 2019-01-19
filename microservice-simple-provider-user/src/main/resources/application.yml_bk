@@ -2,8 +2,6 @@ server:
   port: 8081
 
 spring:
-  application:
-    name: microservice-provider-user
   jpa:
     # 让hibernate打印执行的SQL
     show-sql: true
